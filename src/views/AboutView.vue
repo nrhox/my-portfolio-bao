@@ -9,7 +9,7 @@ menarik kalau udah dapet feel-nya.
 
 Kalau nulis kode, saya biasanya berjalan dulu sampai sesuai harapan, baru nanti dirapikan
 sambil nyari cara biar lebih efisien. Saya suka suasana tenang waktu ngerjain sesuatu,
-ditemani minuman dan musik dangdut pop kayak NDX AKA. Tapi kalau udah fokus banget, musik
+ditemani minuman dan musik dangdut pop kayak NDX AKA ataupun DJ. Tapi kalau udah fokus banget, musik
 langsung saya pause biar gak ada gangguan. Cuma saya, layar, dan ide yang tiba-tiba muncul.
 
 Buat saya, dunia pemrograman itu tempat buat terus nyoba hal baru. Kadang bikin stres,
